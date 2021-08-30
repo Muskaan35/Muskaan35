@@ -2,7 +2,7 @@
 - 👀 I’m interested in UiPath, Analytics and finance.
 - 🌱 I’m currently learning C# and JS.
 - 💞️ I’m looking to collaborate on UiPath and Data Analytics projects.
-- 📫 How to reach me ... gmuskaan35@gmail.com, [<image src = "images/linkedin.svg">](https://www.linkedin.com/in/muskaan-gupta10/ "Muskaan Gupta LinkedIn Profile") 
+- 📫 How to reach me ... gmuskaan35@gmail.com, [<image src = "images/linkedin.jpg">](https://www.linkedin.com/in/muskaan-gupta10/ "Muskaan Gupta LinkedIn Profile") 
 
 
 <!---
